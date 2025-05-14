@@ -16,9 +16,9 @@ Beyond academics, I enjoy playing **football** ⚽ and **chess** ♟, which help
 - **2nd stage** of the **Mathematical Olympiad (2022)**  
 - **Finalist** of the **Mazowieckie Mathematics Competition (2019)**  
 - **1st place** in the **Galileo National Mathematics Competition (2018)**  
-- **1st place** in the **Pionier Mathematics Competition (2019)**  
-- **1st place** in the **Pingwin Mathematics Competition (2019)**  
-- **1st place** in the **Albus Mathematics Competition (2018)**  
+- **1st place** in the **Pionier National Mathematics Competition (2019)**  
+- **1st place** in the **Pingwin National Mathematics Competition (2019)**  
+- **1st place** in the **Albus National Mathematics Competition (2018)**  
 - **1st place** (twice) in the **Powiat Mathematics Contest "Przygoda z Matematyką" (2018, 2019)**  
 - **85th place** in the **European Mathematics Competition "Nabój" (2020)**  
 
