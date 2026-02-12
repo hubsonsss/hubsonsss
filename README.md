@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Hubert Sobociński! 👋</h1>
+ 
+🎓 **BSc in Data Science (Engineering Degree)** – Faculty of Mathematics and Information Science – Warsaw University of Technology 🏛
 
-🎓 **Data Science Student** - Faculty of Mathematics and Information Science - Warsaw University of Technology 🏛  
 🎓 **Graduate of XIV Liceum Ogólnokształcące im. Stanisława Staszica in Warsaw** - The best high school in Poland 🇵🇱  
 
 ---
@@ -9,6 +10,17 @@
 I have a strong passion for **mathematics**, especially **game theory** and **number theory**. My interests also extend to **data science** and **artificial intelligence**, where I explore machine learning, predictive modeling, and deep learning.  
 
 Beyond academics, I enjoy playing **football** ⚽ and **chess** ♟, which help me develop strategic thinking and decision-making skills.  
+
+---
+
+## 💼 Professional Experience
+
+### 💻 Low Code Developer — Proexe  
+**11.2025 – 02.2026**
+- Implemented modifications and new modules in the Employee system
+- Developed frontend components using React
+- Supported testing of applications (React + Go) and bug identification
+- Assisted in integration and deployment of APIs written in Go
 
 ---
 
@@ -24,6 +36,8 @@ Beyond academics, I enjoy playing **football** ⚽ and **chess** ♟, which help
 - **85th place** in the **European Mathematics Competition "Nabój" (2020)**  
 
 ---
+
+
 
 ### 🛠 Tech Stack  
 #### **Languages**  
