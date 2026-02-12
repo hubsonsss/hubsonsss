@@ -1,8 +1,10 @@
-<h1 align="center">Hi, I'm Hubert Sobociński! 👋</h1>
- 
+<img align="right" src="https://github.com/user-attachments/assets/2b82264a-c32d-47c8-a29c-a50e35a53b23" width="180">
+
+# Hi, I'm Hubert Sobociński! 👋
+
 🎓 **BSc in Data Science (Engineering Degree)** – Faculty of Mathematics and Information Science – Warsaw University of Technology 🏛
 
-🎓 **Graduate of XIV Liceum Ogólnokształcące im. Stanisława Staszica in Warsaw** - The best high school in Poland 🇵🇱  
+🎓 **Graduate of XIV Liceum Ogólnokształcące im. Stanisława Staszica in Warsaw** – The best high school in Poland
 
 ---
 
