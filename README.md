@@ -33,13 +33,32 @@ Beyond academics, I enjoy playing **football** ⚽ and **chess** ♟, which help
 - **1st place** in the **Galileo National Mathematics Competition (2018)**  
 - **1st place** in the **Pionier National Mathematics Competition (2019)**  
 - **1st place** in the **Pingwin National Mathematics Competition (2019)**  
-- **1st place** in the **Albus National Mathematics Competition (2018)**  
-- **1st place** (twice) in the **Powiat Mathematics Contest "Przygoda z Matematyką" (2018, 2019)**  
-- **85th place** in the **European Mathematics Competition "Nabój" (2020)**  
+- **1st place** in the **Albus National Mathematics Competition (2018)**
+- **2nd place** in Poland and **1st place** in the Voivodeship in the **Maks Mathematical Competition (2018)**
+- **1st place** (two-time winner) in the **Powiat Mathematics Contest "Przygoda z Matematyką" (2018, 2019)**  
+- **85th place** in the **European Mathematics Competition "Nabój" (2020)**
+- **3rd place** in the **Albus National Mathematics Competition (2017)** 
+- **3rd place** in the **Galileo National Mathematics Competition (2017)**  
+- **3rd place** in the **Pionier National Mathematics Competition (2016)**
+- **3rd place** in the **Multitest National Mathematics Competition (2016)**
+- **4th place** in the **Olimpus National Mathematics Competition (2017)**
+- **4th place** in the **Multitest National Mathematics Competition (2017)**
+- **5th place** in the **Galileo National Mathematics Competition (2019)**  
+- **5th place** in the **Multitest National Mathematics Competition (2018)**
+- **5th place** in the **Pionier National Mathematics Competition (2017)** 
+- **5th place** in the **Pingwin National Mathematics Competition (2016)**
+- **1st place** (two-time winner) in the **District Mathematics Competition “Mathematician for a 6” (2015, 2016)**
+---
+
+### 🏆 Achievements in Chemistry
+- **1st place** (two-time winner) in the **Powiat Chemistry Contest "Szkiełkiem i okiem" (2018, 2019)**  
+- **11th place** in the **National Chemistry Competition “Multitest in Chemistry” (2016)** 
 
 ---
 
-
+### 🏆 Achievements in Physics
+- **9th place** in the **National Physics Competition “Multitest in Physcis” (2018)**
+- **15th place** in the **Albus National Physics Competition (2019)** 
 
 ### 🛠 Tech Stack  
 #### **Languages**  
